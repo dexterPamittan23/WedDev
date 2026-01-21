@@ -1,28 +1,24 @@
 h1 {
     text-align: center;
 }
+p {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
     border-radius: 100px;
-    border: 5px solid green;
+    border: 5px solid blue;
 }   
-h2 {
-    text-align: center;
-}
-p{
-    text-align: center;
-}
-ul, ol, li {
-    text-align: center;
-    list-style-position: inside;
-}
-li {
+ul, li  {
     text-align: center;
     list-style-position: inside;
 }
 body {
-  background-color: lightgreen; 
+  background-color: skyblue; 
 }
