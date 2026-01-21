@@ -26,3 +26,7 @@ li {
 body {
   background-color: lightgreen; 
 }
+.center-link {
+    display: block;
+    text-align: center;
+}
